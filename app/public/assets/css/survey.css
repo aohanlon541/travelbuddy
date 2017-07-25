@@ -1,0 +1,30 @@
+        * {
+            font-family: avenir;
+        }
+        
+        html {
+            background-color: mintcream;
+        }
+        
+        body {
+            width: 75%;
+            margin: 2em auto;
+            border: 2px solid black;
+            padding: 2em 3em 3em;
+        }
+        
+        h2 {
+            font-size: 1.25em;
+        }
+        
+        p {
+            font-size: 1.1em;
+        }
+        
+        #matchPic {
+            width: 25em;
+        }
+        
+        .modal-content {
+            text-align: center;
+        }

@@ -1,0 +1,26 @@
+{
+  "name": "travelbuddy",
+  "version": "1.0.0",
+  "description": "Find your travel buddy based on a quick, 10-question survey",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "serve-static": "^1.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aohanlon541/FriendFinder.git"
+  },
+  "author": "Allison O'Hanlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aohanlon541/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/aohanlon541/FriendFinder#readme"
+}
