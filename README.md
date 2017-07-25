@@ -1,4 +1,4 @@
-# FriendFinder
+# Travel Buddy
 
 This application utilizes Node.js, Express.js, HTML, CSS, JavaScript, & Jquery
 
@@ -6,3 +6,6 @@ This full-stack application implements friend matching based on the user's respo
 
 
 https://travelbuddy-ao.herokuapp.com/
+
+
+For UT: This is my Friend Finder assignment
